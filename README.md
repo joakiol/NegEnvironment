@@ -19,4 +19,5 @@ In this project we've been making a bilateral negotiation environment in Python 
 Run program in console by: 
 
 python main.py <sellerAgentName> <buyerAgentName> <negotiationTime(seconds)> <host(xmpp server name)>
+  
 Default agents name: concederAgent, boulwardAgent
